@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	height: 2500px;
+}
+
+#cont{
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	height: 4px;
+}
+
+#progress{
+	background: #F00;
+	width: 0;
+	height: 4px;
+}
