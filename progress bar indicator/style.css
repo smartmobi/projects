@@ -4,14 +4,13 @@
 }
 
 html{
-	height: 2500px;
+	height: 1500px;
 }
-
-#cont{
+#progress_bar{
 	width: 100%;
 	position: fixed;
 	bottom: 0;
-	height: 4px;
+	z-index: 999;
 }
 
 #progress{
